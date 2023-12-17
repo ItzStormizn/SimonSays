@@ -1,0 +1,4 @@
+name: SimonSays
+version: '${project.version}'
+main: com.stormizn.minigames.simonsays.SimonSays
+api-version: '1.20'
